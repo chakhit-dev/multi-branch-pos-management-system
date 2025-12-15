@@ -1,5 +1,7 @@
 # multi-branch-pos-management-system
 
+### Create "env.local" file.
+
 ```bash
 DB_HOST=
 DB_USER=
